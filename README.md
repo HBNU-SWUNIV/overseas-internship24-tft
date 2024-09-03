@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1b5c58e-ebe7-40c7-ae7c-108d48198528)![image](https://github.com/user-attachments/assets/f101f65f-02c9-4b1f-9bd0-1a0558fee1d6)# 국립한밭대학교 ㅁㅁㅁㅁ팀
+# 국립한밭대학교 TFT팀
 
 ## 팀 구성 
 - 20201776 옥주용 컴퓨터공학과
@@ -24,8 +24,8 @@
     The goal of this service is to preemptively recognize vulnerable regions, thereby allowing for better disaster preparedness and the reinforcement of these areas.
     Ultimately, this proactive approach can help minimize human and property losses.
 </p>
-![image](https://github.com/user-attachments/assets/1b34f10a-edd3-42be-8429-c98919f5263e)
-![image](https://github.com/user-attachments/assets/553d40f2-c9ef-4675-84ff-05737e47a010)
+![image](https://github.com/user-attachments/assets/e1b5c58e-ebe7-40c7-ae7c-108d48198528)
+![image](https://github.com/user-attachments/assets/f101f65f-02c9-4b1f-9bd0-1a0558fee1d6)
 
 <h2>Features</h2>
 <ul>
