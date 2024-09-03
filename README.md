@@ -20,6 +20,7 @@
     During the preliminary research phase of developing a service utilizing the WeMap API, we identified the consistent occurrence of flood-related damages.
     This led us to consider whether identifying vulnerable areas prone to natural disasters using QGIS data and natural disaster datasets could help reduce future damages.
 </p>
+<img src="https://private-user-images.githubusercontent.com/128788634/363929920-b61d2b39-ce45-42a9-9c9a-c6727b979a74.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzNTcxNzUsIm5iZiI6MTcyNTM1Njg3NSwicGF0aCI6Ii8xMjg3ODg2MzQvMzYzOTI5OTIwLWI2MWQyYjM5LWNlNDUtNDJhOS05YzlhLWM2NzI3Yjk3OWE3NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwM1QwOTQ3NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjY2OGEyMGVkMDMwNzJkNjExZmUxNTM2ZjY2NTk5ZmMwZmYwOGViYWQ1YWQzMTBlMGZiMTJjYzhlNjlmYmY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ivv6RgE-w0Lt5CaZOwS1fuUvSCzv4HwAaux7xkfSwn0"/>
 <p>
     The goal of this service is to preemptively recognize vulnerable regions, thereby allowing for better disaster preparedness and the reinforcement of these areas.
     Ultimately, this proactive approach can help minimize human and property losses.
