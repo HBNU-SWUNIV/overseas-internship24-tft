@@ -24,8 +24,6 @@
     The goal of this service is to preemptively recognize vulnerable regions, thereby allowing for better disaster preparedness and the reinforcement of these areas.
     Ultimately, this proactive approach can help minimize human and property losses.
 </p>
-![image](https://github.com/user-attachments/assets/e1b5c58e-ebe7-40c7-ae7c-108d48198528)
-![image](https://github.com/user-attachments/assets/f101f65f-02c9-4b1f-9bd0-1a0558fee1d6)
 
 <h2>Features</h2>
 <ul>
